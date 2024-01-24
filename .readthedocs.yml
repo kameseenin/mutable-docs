@@ -11,8 +11,8 @@ build:
   tools:
     python: "3.8"
 
-mkdocs:
-  configuration: mkdocs.yml
+#mkdocs:
+  #configuration: mkdocs.yml
 
 # Build all formats
 formats: all
